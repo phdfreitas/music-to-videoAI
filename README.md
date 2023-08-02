@@ -16,13 +16,13 @@ com apenas **poucos passos** você é capaz de criar uma animação
 
 e de forma automática, o vídeo final é gerado por **inteligência artificial** 
 
-➡️ [**teste agora mesmo!**](https://gera-ai-cc.onrender.com/) 
+➡️ [**teste agora mesmo!**](https://new-gera-ai.onrender.com/) 
 
 
 </br>
 
 ## 🔗 links úteis
-🖥️ site **gera.ai** funcionando, bora testar? [link da ferramenta.](https://gera-ai-cc.onrender.com/)
+🖥️ site **gera.ai** funcionando, bora testar? [link da ferramenta.](https://new-gera-ai.onrender.com/)
 
 💡 pitch **gera.ai**, vem conferir! [link da apresentação.](https://docs.google.com/presentation/d/1OgMW3NNcyGM_q87AkEnA971fbGUmHHIB-g1iNlGC7aQ/edit?usp=sharing)
 
